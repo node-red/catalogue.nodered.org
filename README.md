@@ -1,2 +1,2 @@
 # catalog.nodered.org
-Community node module catalog
+Community node module catalogue
